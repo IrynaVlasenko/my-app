@@ -71,3 +71,23 @@ h5 {
     text-align: center;
     border: 1px solid #4798e7;
 }
+
+.cont {
+    margin: 15px 0;
+}
+
+.row {
+    margin: 15px 0;
+    padding: 20px 0;
+    border: 1px solid white;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    background-image: rgb(192, 119, 192);
+}
+
+.git-link,
+a[href*="week6"] {
+    color: black;
+
+}

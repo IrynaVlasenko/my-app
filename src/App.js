@@ -48,6 +48,44 @@ export default function App() {
             </p>
           </div>
         </div>
+        <h5>The forecast for the next 5 days</h5>
+        <div className="cont">
+          <div className="row">
+            <div className="col">Mon</div>
+            <div className="col">
+              <i className="fa-solid fa-cloud-bolt"></i>
+            </div>
+            <div className="col">21°C</div>
+          </div>
+          <div className="row">
+            <div className="col">Tue</div>
+            <div className="col">
+              <i className="fa-solid fa-sun"></i>
+            </div>
+            <div className="col">31°C</div>
+          </div>
+          <div className="row">
+            <div className="col">Wed</div>
+            <div className="col">
+              <i className="fa-solid fa-cloud-rain"></i>
+            </div>
+            <div className="col">28°C</div>
+          </div>
+          <div className="row">
+            <div className="col">Thu</div>
+            <div className="col">
+              <i className="fa-solid fa-snowflake"></i>
+            </div>
+            <div className="col">25°C</div>
+          </div>
+          <div className="row">
+            <div className="col">Fri</div>
+            <div className="col">
+              <i className="fa-solid fa-cloud-sun"></i>
+            </div>
+            <div className="col">24°C</div>
+          </div>
+        </div>
       </div>
     </div>
   );
