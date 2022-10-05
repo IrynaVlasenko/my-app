@@ -86,7 +86,7 @@ export default function App() {
             <div className="col">24°C</div>
           </div>
         </div>
-        <p class="git-link">
+        <p className="git-link">
           <a href="https://github.com/IrynaVlasenko/my-app">
             GitHub repository
           </a>{" "}
